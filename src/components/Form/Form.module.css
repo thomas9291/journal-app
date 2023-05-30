@@ -1,0 +1,20 @@
+.formContainer {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.title,
+.text {
+  margin: 1rem;
+}
+label {
+  margin: 1rem;
+}
+.btn {
+  padding: 0.5rem;
+  border-radius: 0.7rem;
+  background-color: green;
+  color: white;
+}
